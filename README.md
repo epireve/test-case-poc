@@ -39,9 +39,11 @@ Based on the benchmark results:
 4. View the comparative results and visualizations
 
 ## Project Structure 
+```
 ├── README.md
 ├── benchmark.ipynb
 └── test-demo.ipynb
+```
 
 ## Future Improvements
 - Add more algorithms for comparison
